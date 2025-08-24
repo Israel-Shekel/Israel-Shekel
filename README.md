@@ -20,7 +20,8 @@ I enjoy learning new technologies and tackling challenging problems. I’m conti
 
 Here are some of my projects:  
 - [Personal Portfolio](https://israel-shekel.github.io/about-me/)  
-- **[I4DT Portfolio](https://israel-shekel.github.io/I4DT-/)    
+- [I4DT Portfolio](https://israel-shekel.github.io/I4DT-/)
+- [odin recipes]( https://israel-shekel.github.io/odins/)    
 - More projects in progress… stay tuned!
 
 ---
