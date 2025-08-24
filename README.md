@@ -1,7 +1,7 @@
 # Hi, I'm Israel Ajani 👋
 
 I’m a **full-stack web developer in training**, passionate about building clean, responsive, and user-friendly websites.  
-I enjoy learning new technologies and tackling challenging problems.
+I enjoy learning new technologies and tackling challenging problems. I’m continuously working on new projects to improve my skills.
 
 ---
 
@@ -16,11 +16,12 @@ I enjoy learning new technologies and tackling challenging problems.
 
 ---
 
-## 🔹 Portfolio
+## 🔹 Portfolio & Projects
 
-Check out my projects:  
+Here are some of my projects:  
 - [Personal Portfolio](https://israel-shekel.github.io/about-me/)  
-- More projects coming soon!
+- **[I4DT Portfolio](https://israel-shekel.github.io/I4DT-/)    
+- More projects in progress… stay tuned!
 
 ---
 
@@ -34,11 +35,6 @@ Check out my projects:
 
 ## ⚡ Fun Fact
 
-I’m constantly learning new skills and experimenting with web design to create projects that are both **functional and visually appealing**.
+I’m constantly learning new skills and experimenting with web design to create projects that are both **functional and visually appealing**.  
 
----
-
-## 📊 GitHub Stats
-
-![Israel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Israel-Shekel&show_icons=true&theme=react)
-
+I love sharing my progress and building real-world projects that demonstrate my growth as a developer.
